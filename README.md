@@ -1,2 +1,2 @@
 # simple-shell
-simple shell program that works in linux environment
+simple shell program with window commands that works in linux environment
