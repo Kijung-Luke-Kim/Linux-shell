@@ -1,7 +1,7 @@
 # simple-shell
 Simple shell program with window commands that works in linux environment. This codes were written to enhance my understandings on the operating systems.
 
-## installation
+## Installation
 1. Download SimpleShell_KimKijung.c file.
 2. Compile and run from Fedora or other Linux environment
 
